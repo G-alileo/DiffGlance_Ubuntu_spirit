@@ -1,0 +1,7 @@
+[project]
+name = "diffglance-ubuntu-spirit"
+version = "0.1.0"
+description = "This Project Serves to simplify dev commit message"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
